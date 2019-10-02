@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\bin\Debug\P4.2.MemoriaLocal.exe.config
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\bin\Debug\P4.2.MemoriaLocal.exe
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\bin\Debug\P4.2.MemoriaLocal.pdb
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\obj\Debug\P4.2.MemoriaLocal.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\obj\Debug\P4.2.MemoriaLocal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\obj\Debug\P4.2.MemoriaLocal.exe
+C:\Users\HP\source\repos\P4.2.MemoriaLocal\P4.2.MemoriaLocal\obj\Debug\P4.2.MemoriaLocal.pdb

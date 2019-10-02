@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4.MemoriaAutomatica", "P4.MemoriaAutomatica\P4.MemoriaAutomatica.csproj", "{BF0EB231-0319-430C-A4C6-F8C2D6CED9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0EB231-0319-430C-A4C6-F8C2D6CED9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0EB231-0319-430C-A4C6-F8C2D6CED9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0EB231-0319-430C-A4C6-F8C2D6CED9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0EB231-0319-430C-A4C6-F8C2D6CED9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5C0957-4AF8-4595-A6C4-DB6712FAAEF8}
+	EndGlobalSection
+EndGlobal

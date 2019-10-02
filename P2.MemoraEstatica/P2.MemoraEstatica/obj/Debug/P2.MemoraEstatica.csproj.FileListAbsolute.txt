@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\bin\Debug\P2.MemoraEstatica.exe.config
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\bin\Debug\P2.MemoraEstatica.exe
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\bin\Debug\P2.MemoraEstatica.pdb
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\obj\Debug\P2.MemoraEstatica.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\obj\Debug\P2.MemoraEstatica.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\obj\Debug\P2.MemoraEstatica.exe
+C:\Users\HP\source\repos\P2.MemoraEstatica\P2.MemoraEstatica\obj\Debug\P2.MemoraEstatica.pdb

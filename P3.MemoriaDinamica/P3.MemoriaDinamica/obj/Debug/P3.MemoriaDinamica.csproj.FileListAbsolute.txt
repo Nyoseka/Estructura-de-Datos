@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\bin\Debug\P3.MemoriaDinamica.exe.config
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\bin\Debug\P3.MemoriaDinamica.exe
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\bin\Debug\P3.MemoriaDinamica.pdb
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\obj\Debug\P3.MemoriaDinamica.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\obj\Debug\P3.MemoriaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\obj\Debug\P3.MemoriaDinamica.exe
+C:\Users\HP\source\repos\P3.MemoriaDinamica\P3.MemoriaDinamica\obj\Debug\P3.MemoriaDinamica.pdb
