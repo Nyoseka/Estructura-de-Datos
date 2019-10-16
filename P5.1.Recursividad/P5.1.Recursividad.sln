@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5.1.Recursividad", "P5.1.Recursividad\P5.1.Recursividad.csproj", "{78F67A07-0C5A-499A-8FF7-FC2D9C60DEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F67A07-0C5A-499A-8FF7-FC2D9C60DEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F67A07-0C5A-499A-8FF7-FC2D9C60DEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F67A07-0C5A-499A-8FF7-FC2D9C60DEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F67A07-0C5A-499A-8FF7-FC2D9C60DEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFEEBCC3-974C-4D9D-9DED-ABD2C8B54DFC}
+	EndGlobalSection
+EndGlobal

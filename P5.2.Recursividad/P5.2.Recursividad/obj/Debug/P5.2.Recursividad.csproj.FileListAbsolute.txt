@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\bin\Debug\P5.2.Recursividad.exe.config
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\bin\Debug\P5.2.Recursividad.exe
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\bin\Debug\P5.2.Recursividad.pdb
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\obj\Debug\P5.2.Recursividad.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\obj\Debug\P5.2.Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\obj\Debug\P5.2.Recursividad.exe
+C:\Users\HP\source\repos\P5.2.Recursividad\P5.2.Recursividad\obj\Debug\P5.2.Recursividad.pdb
