@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\bin\Debug\P.PruebaCola.exe.config
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\bin\Debug\P.PruebaCola.exe
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\bin\Debug\P.PruebaCola.pdb
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\obj\Debug\P.PruebaCola.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\obj\Debug\P.PruebaCola.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\obj\Debug\P.PruebaCola.exe
+C:\Users\HP\source\repos\P.PruebaCola\P.PruebaCola\obj\Debug\P.PruebaCola.pdb

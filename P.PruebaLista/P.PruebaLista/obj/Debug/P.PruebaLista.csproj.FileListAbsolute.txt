@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\obj\Debug\P.PruebaLista.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\bin\Debug\P.PruebaLista.exe.config
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\bin\Debug\P.PruebaLista.exe
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\bin\Debug\P.PruebaLista.pdb
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\obj\Debug\P.PruebaLista.exe
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\obj\Debug\P.PruebaLista.pdb
+C:\Users\HP\source\repos\P.PruebaLista\P.PruebaLista\obj\Debug\P.PruebaLista.csprojAssemblyReference.cache
