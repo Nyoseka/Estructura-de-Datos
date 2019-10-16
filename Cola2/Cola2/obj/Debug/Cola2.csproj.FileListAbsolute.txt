@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Cola2\Cola2\bin\Debug\Cola2.exe.config
+C:\Users\HP\source\repos\Cola2\Cola2\bin\Debug\Cola2.exe
+C:\Users\HP\source\repos\Cola2\Cola2\bin\Debug\Cola2.pdb
+C:\Users\HP\source\repos\Cola2\Cola2\obj\Debug\Cola2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cola2\Cola2\obj\Debug\Cola2.exe
+C:\Users\HP\source\repos\Cola2\Cola2\obj\Debug\Cola2.pdb
+C:\Users\HP\source\repos\Cola2\Cola2\obj\Debug\Cola2.csprojAssemblyReference.cache
