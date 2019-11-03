@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\P14.2.Pila\P14.2.Pila\bin\Debug\P14.2.Pila.exe.config
+C:\Users\HP\source\repos\P14.2.Pila\P14.2.Pila\bin\Debug\P14.2.Pila.exe
+C:\Users\HP\source\repos\P14.2.Pila\P14.2.Pila\bin\Debug\P14.2.Pila.pdb
+C:\Users\HP\source\repos\P14.2.Pila\P14.2.Pila\obj\Debug\P14.2.Pila.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P14.2.Pila\P14.2.Pila\obj\Debug\P14.2.Pila.exe
+C:\Users\HP\source\repos\P14.2.Pila\P14.2.Pila\obj\Debug\P14.2.Pila.pdb

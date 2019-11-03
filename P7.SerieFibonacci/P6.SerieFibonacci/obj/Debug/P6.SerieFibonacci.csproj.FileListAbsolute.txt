@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\bin\Debug\P6.SerieFibonacci.exe.config
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\bin\Debug\P6.SerieFibonacci.exe
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\bin\Debug\P6.SerieFibonacci.pdb
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.exe
+C:\Users\HP\source\repos\P6.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.pdb
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\bin\Debug\P6.SerieFibonacci.exe.config
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\bin\Debug\P6.SerieFibonacci.exe
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\bin\Debug\P6.SerieFibonacci.pdb
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.exe
+C:\Users\HP\source\repos\P7.SerieFibonacci\P6.SerieFibonacci\obj\Debug\P6.SerieFibonacci.pdb

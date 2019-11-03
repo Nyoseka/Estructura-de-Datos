@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\bin\Debug\P8.BusquedaBinaria.exe.config
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\bin\Debug\P8.BusquedaBinaria.exe
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\bin\Debug\P8.BusquedaBinaria.pdb
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\obj\Debug\P8.BusquedaBinaria.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\obj\Debug\P8.BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\obj\Debug\P8.BusquedaBinaria.exe
+C:\Users\HP\source\repos\P8.BusquedaBinaria\P8.BusquedaBinaria\obj\Debug\P8.BusquedaBinaria.pdb

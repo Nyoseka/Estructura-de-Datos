@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\bin\Debug\P10.CapitalTotal.exe.config
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\bin\Debug\P10.CapitalTotal.exe
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\bin\Debug\P10.CapitalTotal.pdb
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\obj\Debug\P10.CapitalTotal.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\obj\Debug\P10.CapitalTotal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\obj\Debug\P10.CapitalTotal.exe
+C:\Users\HP\source\repos\P10.CapitalTotal\P10.CapitalTotal\obj\Debug\P10.CapitalTotal.pdb

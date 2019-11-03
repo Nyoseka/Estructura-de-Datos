@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\bin\Debug\P9.TorresDeHanoi.exe.config
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\bin\Debug\P9.TorresDeHanoi.exe
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\bin\Debug\P9.TorresDeHanoi.pdb
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\obj\Debug\P9.TorresDeHanoi.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\obj\Debug\P9.TorresDeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\obj\Debug\P9.TorresDeHanoi.exe
+C:\Users\HP\source\repos\P9.TorresDeHanoi\P9.TorresDeHanoi\obj\Debug\P9.TorresDeHanoi.pdb
