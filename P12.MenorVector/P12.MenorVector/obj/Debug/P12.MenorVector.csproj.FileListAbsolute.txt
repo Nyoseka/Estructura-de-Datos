@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\bin\Debug\P12.MenorVector.exe.config
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\bin\Debug\P12.MenorVector.exe
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\bin\Debug\P12.MenorVector.pdb
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\obj\Debug\P12.MenorVector.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\obj\Debug\P12.MenorVector.exe
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\obj\Debug\P12.MenorVector.pdb
+C:\Users\HP\source\repos\P12.MenorVector\P12.MenorVector\obj\Debug\P12.MenorVector.csprojAssemblyReference.cache

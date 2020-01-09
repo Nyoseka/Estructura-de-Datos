@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\bin\Debug\P13.SumarVectores.exe.config
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\bin\Debug\P13.SumarVectores.exe
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\bin\Debug\P13.SumarVectores.pdb
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\obj\Debug\P13.SumarVectores.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\obj\Debug\P13.SumarVectores.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\obj\Debug\P13.SumarVectores.exe
+C:\Users\HP\source\repos\P13.SumarVectores\P13.SumarVectores\obj\Debug\P13.SumarVectores.pdb

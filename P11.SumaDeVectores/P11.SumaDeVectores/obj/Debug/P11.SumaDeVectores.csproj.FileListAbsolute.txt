@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\bin\Debug\P11.SumaDeVectores.exe.config
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\bin\Debug\P11.SumaDeVectores.exe
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\bin\Debug\P11.SumaDeVectores.pdb
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\obj\Debug\P11.SumaDeVectores.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\obj\Debug\P11.SumaDeVectores.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\obj\Debug\P11.SumaDeVectores.exe
+C:\Users\HP\source\repos\P11.SumaDeVectores\P11.SumaDeVectores\obj\Debug\P11.SumaDeVectores.pdb
