@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\obj\Debug\P18.ListaNombres.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\obj\Debug\P18.ListaNombres.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\bin\Debug\P18.ListaNombres.exe.config
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\bin\Debug\P18.ListaNombres.exe
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\bin\Debug\P18.ListaNombres.pdb
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\obj\Debug\P18.ListaNombres.exe
+C:\Users\HP\source\repos\P18.ListaNombres\P18.ListaNombres\obj\Debug\P18.ListaNombres.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\bin\Debug\P19.ListaNumerosFlotantes.exe.config
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\bin\Debug\P19.ListaNumerosFlotantes.exe
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\bin\Debug\P19.ListaNumerosFlotantes.pdb
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\obj\Debug\P19.ListaNumerosFlotantes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\obj\Debug\P19.ListaNumerosFlotantes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\obj\Debug\P19.ListaNumerosFlotantes.exe
+C:\Users\HP\source\repos\P19.ListaNumerosFlotantes\P19.ListaNumerosFlotantes\obj\Debug\P19.ListaNumerosFlotantes.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\obj\Debug\P16.ColaNumerosFlotantes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\obj\Debug\P16.ColaNumerosFlotantes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\bin\Debug\P16.ColaNumerosFlotantes.exe.config
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\bin\Debug\P16.ColaNumerosFlotantes.exe
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\bin\Debug\P16.ColaNumerosFlotantes.pdb
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\obj\Debug\P16.ColaNumerosFlotantes.exe
+C:\Users\HP\source\repos\P16.ColaNumerosFlotantes\P16.ColaNumerosFlotantes\obj\Debug\P16.ColaNumerosFlotantes.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\bin\Debug\P15.Pilanombres.exe.config
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\bin\Debug\P15.Pilanombres.exe
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\bin\Debug\P15.Pilanombres.pdb
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\obj\Debug\P15.Pilanombres.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\obj\Debug\P15.Pilanombres.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\obj\Debug\P15.Pilanombres.exe
+C:\Users\HP\source\repos\P15.Pilanombres\P15.Pilanombres\obj\Debug\P15.Pilanombres.pdb

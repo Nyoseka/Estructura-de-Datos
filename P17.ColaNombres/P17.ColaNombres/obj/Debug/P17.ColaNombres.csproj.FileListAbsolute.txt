@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\bin\Debug\P17.ColaNombres.exe.config
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\bin\Debug\P17.ColaNombres.exe
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\bin\Debug\P17.ColaNombres.pdb
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\obj\Debug\P17.ColaNombres.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\obj\Debug\P17.ColaNombres.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\obj\Debug\P17.ColaNombres.exe
+C:\Users\HP\source\repos\P17.ColaNombres\P17.ColaNombres\obj\Debug\P17.ColaNombres.pdb
