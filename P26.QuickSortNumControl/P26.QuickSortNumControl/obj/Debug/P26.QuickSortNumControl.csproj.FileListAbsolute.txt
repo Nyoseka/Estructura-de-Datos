@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\bin\Debug\P26.QuickSortNumControl.exe.config
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\bin\Debug\P26.QuickSortNumControl.exe
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\bin\Debug\P26.QuickSortNumControl.pdb
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\obj\Debug\P26.QuickSortNumControl.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\obj\Debug\P26.QuickSortNumControl.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\obj\Debug\P26.QuickSortNumControl.exe
+C:\Users\HP\source\repos\P26.QuickSortNumControl\P26.QuickSortNumControl\obj\Debug\P26.QuickSortNumControl.pdb

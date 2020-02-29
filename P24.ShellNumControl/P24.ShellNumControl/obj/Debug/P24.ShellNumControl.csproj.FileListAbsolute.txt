@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\bin\Debug\P24.ShellNumControl.exe.config
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\bin\Debug\P24.ShellNumControl.exe
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\bin\Debug\P24.ShellNumControl.pdb
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\obj\Debug\P24.ShellNumControl.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\obj\Debug\P24.ShellNumControl.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\obj\Debug\P24.ShellNumControl.exe
+C:\Users\HP\source\repos\P24.ShellNumControl\P24.ShellNumControl\obj\Debug\P24.ShellNumControl.pdb

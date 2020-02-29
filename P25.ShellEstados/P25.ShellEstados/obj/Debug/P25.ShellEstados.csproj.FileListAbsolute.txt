@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\bin\Debug\P25.ShellEstados.exe.config
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\bin\Debug\P25.ShellEstados.exe
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\bin\Debug\P25.ShellEstados.pdb
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\obj\Debug\P25.ShellEstados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\obj\Debug\P25.ShellEstados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\obj\Debug\P25.ShellEstados.exe
+C:\Users\HP\source\repos\P25.ShellEstados\P25.ShellEstados\obj\Debug\P25.ShellEstados.pdb

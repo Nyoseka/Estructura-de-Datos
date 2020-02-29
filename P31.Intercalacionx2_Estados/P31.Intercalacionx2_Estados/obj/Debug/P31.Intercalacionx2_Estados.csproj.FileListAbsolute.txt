@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\bin\Debug\P31.Intercalacionx2_Estados.exe.config
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\bin\Debug\P31.Intercalacionx2_Estados.exe
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\bin\Debug\P31.Intercalacionx2_Estados.pdb
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\obj\Debug\P31.Intercalacionx2_Estados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\obj\Debug\P31.Intercalacionx2_Estados.exe
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\obj\Debug\P31.Intercalacionx2_Estados.pdb
+C:\Users\HP\source\repos\P31.Intercalacionx2_Estados\P31.Intercalacionx2_Estados\obj\Debug\P31.Intercalacionx2_Estados.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14.PilaNumerosFlotantes", "P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes.csproj", "{8BCD68B5-23BB-46C9-9EBB-AC353C845610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCD68B5-23BB-46C9-9EBB-AC353C845610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCD68B5-23BB-46C9-9EBB-AC353C845610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCD68B5-23BB-46C9-9EBB-AC353C845610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCD68B5-23BB-46C9-9EBB-AC353C845610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E12DAB2-D7E1-4444-B30E-B7840B9E7FD6}
+	EndGlobalSection
+EndGlobal

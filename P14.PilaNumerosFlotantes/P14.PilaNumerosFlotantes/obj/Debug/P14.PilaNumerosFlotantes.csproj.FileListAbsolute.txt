@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\bin\Debug\P14.PilaNumerosFlotantes.exe.config
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\bin\Debug\P14.PilaNumerosFlotantes.exe
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\bin\Debug\P14.PilaNumerosFlotantes.pdb
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\obj\Debug\P14.PilaNumerosFlotantes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\obj\Debug\P14.PilaNumerosFlotantes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\obj\Debug\P14.PilaNumerosFlotantes.exe
+C:\Users\HP\source\repos\P14.PilaNumerosFlotantes\P14.PilaNumerosFlotantes\obj\Debug\P14.PilaNumerosFlotantes.pdb

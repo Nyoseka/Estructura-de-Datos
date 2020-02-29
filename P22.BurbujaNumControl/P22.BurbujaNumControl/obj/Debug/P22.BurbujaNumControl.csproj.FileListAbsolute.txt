@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\obj\Debug\P22.BurbujaNumControl.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\obj\Debug\P22.BurbujaNumControl.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\bin\Debug\P22.BurbujaNumControl.exe.config
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\bin\Debug\P22.BurbujaNumControl.exe
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\bin\Debug\P22.BurbujaNumControl.pdb
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\obj\Debug\P22.BurbujaNumControl.exe
+C:\Users\HP\source\repos\P22.BurbujaNumControl\P22.BurbujaNumControl\obj\Debug\P22.BurbujaNumControl.pdb

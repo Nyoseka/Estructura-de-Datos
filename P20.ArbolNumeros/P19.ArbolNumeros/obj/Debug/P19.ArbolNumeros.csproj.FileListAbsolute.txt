@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\bin\Debug\P19.ArbolNumeros.exe.config
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\bin\Debug\P19.ArbolNumeros.exe
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\bin\Debug\P19.ArbolNumeros.pdb
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\obj\Debug\P19.ArbolNumeros.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\obj\Debug\P19.ArbolNumeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\obj\Debug\P19.ArbolNumeros.exe
+C:\Users\HP\source\repos\P19.ArbolNumeros\P19.ArbolNumeros\obj\Debug\P19.ArbolNumeros.pdb

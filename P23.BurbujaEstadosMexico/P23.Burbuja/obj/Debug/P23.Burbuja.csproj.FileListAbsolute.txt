@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\bin\Debug\P23.Burbuja.exe.config
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\bin\Debug\P23.Burbuja.exe
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\bin\Debug\P23.Burbuja.pdb
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\obj\Debug\P23.Burbuja.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\obj\Debug\P23.Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\obj\Debug\P23.Burbuja.exe
+C:\Users\HP\source\repos\P23.Burbuja\P23.Burbuja\obj\Debug\P23.Burbuja.pdb
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\bin\Debug\P23.Burbuja.exe.config
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\bin\Debug\P23.Burbuja.exe
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\bin\Debug\P23.Burbuja.pdb
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\obj\Debug\P23.Burbuja.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\obj\Debug\P23.Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\obj\Debug\P23.Burbuja.exe
+C:\Users\HP\source\repos\P23.BurbujaEstadosMexico\P23.Burbuja\obj\Debug\P23.Burbuja.pdb

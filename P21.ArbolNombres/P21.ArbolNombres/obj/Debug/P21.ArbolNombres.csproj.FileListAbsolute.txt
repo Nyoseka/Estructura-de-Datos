@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\bin\Debug\P21.ArbolNombres.exe.config
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\bin\Debug\P21.ArbolNombres.exe
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\bin\Debug\P21.ArbolNombres.pdb
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\obj\Debug\P21.ArbolNombres.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\obj\Debug\P21.ArbolNombres.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\obj\Debug\P21.ArbolNombres.exe
+C:\Users\HP\source\repos\P21.ArbolNombres\P21.ArbolNombres\obj\Debug\P21.ArbolNombres.pdb

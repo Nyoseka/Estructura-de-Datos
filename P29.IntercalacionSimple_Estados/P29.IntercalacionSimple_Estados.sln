@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P29.IntercalacionSimple_Estados", "P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados.csproj", "{95009CDA-34D8-4CA0-A891-29E8BD1A283C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95009CDA-34D8-4CA0-A891-29E8BD1A283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95009CDA-34D8-4CA0-A891-29E8BD1A283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95009CDA-34D8-4CA0-A891-29E8BD1A283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95009CDA-34D8-4CA0-A891-29E8BD1A283C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A20F9A-A1EC-4582-875B-43F81AC3F86D}
+	EndGlobalSection
+EndGlobal

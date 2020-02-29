@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\bin\Debug\P34.RadixNumeros.exe.config
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\bin\Debug\P34.RadixNumeros.exe
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\bin\Debug\P34.RadixNumeros.pdb
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\obj\Debug\P34.RadixNumeros.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\obj\Debug\P34.RadixNumeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\obj\Debug\P34.RadixNumeros.exe
+C:\Users\HP\source\repos\P34.RadixNumeros\P34.RadixNumeros\obj\Debug\P34.RadixNumeros.pdb

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\bin\Debug\P3.MergeEstados.exe.config
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\bin\Debug\P3.MergeEstados.exe
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\bin\Debug\P3.MergeEstados.pdb
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.exe
+C:\Users\HP\source\repos\P3.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.pdb
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\bin\Debug\P3.MergeEstados.exe.config
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\bin\Debug\P3.MergeEstados.exe
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\bin\Debug\P3.MergeEstados.pdb
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.exe
+C:\Users\HP\source\repos\P33.MergeEstados\P3.MergeEstados\obj\Debug\P3.MergeEstados.pdb

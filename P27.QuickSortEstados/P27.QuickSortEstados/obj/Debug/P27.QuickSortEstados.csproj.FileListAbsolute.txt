@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\bin\Debug\P27.QuickSortEstados.exe.config
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\bin\Debug\P27.QuickSortEstados.exe
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\bin\Debug\P27.QuickSortEstados.pdb
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\obj\Debug\P27.QuickSortEstados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\obj\Debug\P27.QuickSortEstados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\obj\Debug\P27.QuickSortEstados.exe
+C:\Users\HP\source\repos\P27.QuickSortEstados\P27.QuickSortEstados\obj\Debug\P27.QuickSortEstados.pdb

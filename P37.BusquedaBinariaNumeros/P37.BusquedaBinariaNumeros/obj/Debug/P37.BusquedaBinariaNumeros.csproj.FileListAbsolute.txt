@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\bin\Debug\P37.BusquedaBinariaNumeros.exe.config
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\bin\Debug\P37.BusquedaBinariaNumeros.exe
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\bin\Debug\P37.BusquedaBinariaNumeros.pdb
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\obj\Debug\P37.BusquedaBinariaNumeros.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\obj\Debug\P37.BusquedaBinariaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\obj\Debug\P37.BusquedaBinariaNumeros.exe
+C:\Users\HP\source\repos\P37.BusquedaBinariaNumeros\P37.BusquedaBinariaNumeros\obj\Debug\P37.BusquedaBinariaNumeros.pdb

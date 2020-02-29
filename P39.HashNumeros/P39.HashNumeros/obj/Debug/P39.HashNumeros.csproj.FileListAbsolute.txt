@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\obj\Debug\P39.HashNumeros.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\obj\Debug\P39.HashNumeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\bin\Debug\P39.HashNumeros.exe.config
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\bin\Debug\P39.HashNumeros.exe
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\bin\Debug\P39.HashNumeros.pdb
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\obj\Debug\P39.HashNumeros.exe
+C:\Users\HP\source\repos\P39.HashNumeros\P39.HashNumeros\obj\Debug\P39.HashNumeros.pdb

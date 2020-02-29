@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\bin\Debug\P38.BusquedaBinariaEstados.exe.config
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\bin\Debug\P38.BusquedaBinariaEstados.exe
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\bin\Debug\P38.BusquedaBinariaEstados.pdb
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\obj\Debug\P38.BusquedaBinariaEstados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\obj\Debug\P38.BusquedaBinariaEstados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\obj\Debug\P38.BusquedaBinariaEstados.exe
+C:\Users\HP\source\repos\P38.BusquedaBinariaEstados\P38.BusquedaBinariaEstados\obj\Debug\P38.BusquedaBinariaEstados.pdb

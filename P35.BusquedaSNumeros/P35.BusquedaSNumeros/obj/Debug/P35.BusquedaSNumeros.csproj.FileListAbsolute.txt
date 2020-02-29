@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\bin\Debug\P35.BusquedaSNumeros.exe.config
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\bin\Debug\P35.BusquedaSNumeros.exe
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\bin\Debug\P35.BusquedaSNumeros.pdb
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\obj\Debug\P35.BusquedaSNumeros.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\obj\Debug\P35.BusquedaSNumeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\obj\Debug\P35.BusquedaSNumeros.exe
+C:\Users\HP\source\repos\P35.BusquedaSNumeros\P35.BusquedaSNumeros\obj\Debug\P35.BusquedaSNumeros.pdb

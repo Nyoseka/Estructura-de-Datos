@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\bin\Debug\P28.IntercalacionSimple_NC.exe.config
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\bin\Debug\P28.IntercalacionSimple_NC.exe
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\bin\Debug\P28.IntercalacionSimple_NC.pdb
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\obj\Debug\P28.IntercalacionSimple_NC.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\obj\Debug\P28.IntercalacionSimple_NC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\obj\Debug\P28.IntercalacionSimple_NC.exe
+C:\Users\HP\source\repos\P28.IntercalacionSimple_NC\P28.IntercalacionSimple_NC\obj\Debug\P28.IntercalacionSimple_NC.pdb

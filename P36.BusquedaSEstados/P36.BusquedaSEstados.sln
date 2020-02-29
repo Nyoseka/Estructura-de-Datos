@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P36.BusquedaSEstados", "P36.BusquedaSEstados\P36.BusquedaSEstados.csproj", "{7AA1FDC9-0F5B-4A1C-919D-EA8346D7C623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA1FDC9-0F5B-4A1C-919D-EA8346D7C623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA1FDC9-0F5B-4A1C-919D-EA8346D7C623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA1FDC9-0F5B-4A1C-919D-EA8346D7C623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA1FDC9-0F5B-4A1C-919D-EA8346D7C623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {796C4F4F-4A9B-4B6E-863C-602E299FA1B3}
+	EndGlobalSection
+EndGlobal

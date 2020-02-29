@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\bin\Debug\P29.IntercalacionSimple_Estados.exe.config
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\bin\Debug\P29.IntercalacionSimple_Estados.exe
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\bin\Debug\P29.IntercalacionSimple_Estados.pdb
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\obj\Debug\P29.IntercalacionSimple_Estados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\obj\Debug\P29.IntercalacionSimple_Estados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\obj\Debug\P29.IntercalacionSimple_Estados.exe
+C:\Users\HP\source\repos\P29.IntercalacionSimple_Estados\P29.IntercalacionSimple_Estados\obj\Debug\P29.IntercalacionSimple_Estados.pdb

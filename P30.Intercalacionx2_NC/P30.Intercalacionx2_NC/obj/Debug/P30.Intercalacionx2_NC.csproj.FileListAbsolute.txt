@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\bin\Debug\P30.Intercalacionx2_NC.exe.config
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\bin\Debug\P30.Intercalacionx2_NC.exe
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\bin\Debug\P30.Intercalacionx2_NC.pdb
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\obj\Debug\P30.Intercalacionx2_NC.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\obj\Debug\P30.Intercalacionx2_NC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\obj\Debug\P30.Intercalacionx2_NC.exe
+C:\Users\HP\source\repos\P30.Intercalacionx2_NC\P30.Intercalacionx2_NC\obj\Debug\P30.Intercalacionx2_NC.pdb

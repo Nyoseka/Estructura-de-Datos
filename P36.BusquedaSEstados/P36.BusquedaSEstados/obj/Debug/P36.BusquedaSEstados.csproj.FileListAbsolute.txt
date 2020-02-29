@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\bin\Debug\P36.BusquedaSEstados.exe.config
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\bin\Debug\P36.BusquedaSEstados.exe
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\bin\Debug\P36.BusquedaSEstados.pdb
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\obj\Debug\P36.BusquedaSEstados.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\obj\Debug\P36.BusquedaSEstados.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\obj\Debug\P36.BusquedaSEstados.exe
+C:\Users\HP\source\repos\P36.BusquedaSEstados\P36.BusquedaSEstados\obj\Debug\P36.BusquedaSEstados.pdb
